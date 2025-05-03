@@ -12,7 +12,7 @@ int main()
 {
     int n;
     cin>>n;
-    printNum(n);//reverse
+    printNum(n);//reverse output
     return 0;
 }
 // topic: 
