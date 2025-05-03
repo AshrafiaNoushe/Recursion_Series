@@ -12,6 +12,10 @@ int main()
 {
     int n;
     cin>>n;
-    printNum(n);
+    printNum(n);//reverse
     return 0;
 }
+// topic: 
+// 1.Backtracling 
+// 2.stack
+// 3.Recursion Tree
