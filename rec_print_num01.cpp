@@ -10,9 +10,9 @@ void printNum(int n){
 }
 int main()
 {
-    int n;
-    cin>>n;
-    printNum(n);//reverse output
+    int num;
+    cin>>num;
+    printNum(num);//reverse output
     return 0;
 }
 // topic: 
